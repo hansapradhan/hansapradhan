@@ -17,8 +17,8 @@ Portfolio Website: https://hansapradhan.github.io/#/
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hansapradhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hansapradhan&theme=dark&hide_border=false)
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hansapradhan" alt="hansapradhan" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hansapradhan&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
