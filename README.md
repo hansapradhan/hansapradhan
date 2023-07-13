@@ -1,7 +1,7 @@
 # Hi 👋, I'm Hansa Pradhan, Welcome to my GitHub profile!! 
 
 ## 💫 About Me:
-🎒 Currently a student at Virginia Tech <br>🔭 I’m currently working on a web scraping project<br>👯 I’m looking to collaborate with other developers on projects<br>🤝 I’m looking for help with working on research projects, looking for summer internships<br>🌱 I’m currently learning Data Analytics and AI<br>💬 Ask me about anything related to tech and travel<br>🌴In my free time, I solve problems on competitive coding platform and read tech articles.<br>⚡ Fun fact I love to travel and go on hikes<br>👨‍💻 All of my projects are available at https://hansapradhan.github.io/#/ <br>📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hansapradhan)
+🎒 Currently a student at **Virginia Tech** <br>🏢 Worked as a Full-Stack Developer and have an experience of 3 years<br>🔭 I’m currently working on a **web scraping project**<br>👯 I’m looking to collaborate **with other developers on projects** <br>🤝 I’m looking for help **with working on research projects, looking for summer internships**<br>🌱 I’m currently learning **Data Analytics and AI**<br>💬 Ask me about anything related to **tech and travel**<br>🌴In my free time, **I solve problems on competitive coding platform and read tech articles.**<br>⚡ Fun fact: **I love to travel and go on hikes**<br>👨‍💻 All of my projects are available at **https://hansapradhan.github.io/#/** <br>📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hansapradhan)
 
 ## 🌐 Socials:
 Portfolio Website: https://hansapradhan.github.io/#/
@@ -23,9 +23,13 @@ Portfolio Website: https://hansapradhan.github.io/#/
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!--[![](https://visitcount.itsvg.in/api?id=hansapradhan&icon=0&color=0)](https://visitcount.itsvg.in) -->
-![](https://komarev.com/ghpvc/?username=hansapradhan)
+<!--![](https://komarev.com/ghpvc/?username=hansapradhan) -->
+![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/hansapradhan/hansapradhan)
+![pv](https://pageview.vercel.app/?github_user=hansapradhan)
 
-
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--
 
