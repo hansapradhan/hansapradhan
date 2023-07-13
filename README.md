@@ -1,6 +1,7 @@
-# 👋 Hello, fellow coders and enthusiasts! Welcome to my GitHub profile!!
+# Hi 👋, I'm Hansa Pradhan, Welcome to my GitHub profile!! 
+
 ## 💫 About Me:
-<br><br> 🎒 Currently a student at Virginia Tech <br>🔭 I’m currently working on a web scraping project<br>👯 I’m looking to collaborate with other developers on projects<br>🤝 I’m looking for help with working on research projects, looking for summer internships<br>🌱 I’m currently learning Data Analytics and AI<br>💬 Ask me about anything related to tech and travel<br>🌴In my free time, I solve problems on competitive coding platform and read tech articles.<br>⚡ Fun fact I love to travel and go on hikes<br>📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hansapradhan)
+🎒 Currently a student at Virginia Tech <br>🔭 I’m currently working on a web scraping project<br>👯 I’m looking to collaborate with other developers on projects<br>🤝 I’m looking for help with working on research projects, looking for summer internships<br>🌱 I’m currently learning Data Analytics and AI<br>💬 Ask me about anything related to tech and travel<br>🌴In my free time, I solve problems on competitive coding platform and read tech articles.<br>⚡ Fun fact I love to travel and go on hikes<br>👨‍💻 All of my projects are available at https://hansapradhan.github.io/#/ <br>📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hansapradhan)
 
 ## 🌐 Socials:
 Portfolio Website: https://hansapradhan.github.io/#/
@@ -15,6 +16,8 @@ Portfolio Website: https://hansapradhan.github.io/#/
 ![](https://github-readme-stats.vercel.app/api?username=hansapradhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hansapradhan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hansapradhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hansapradhan" alt="hansapradhan" /></a> </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
