@@ -6,6 +6,8 @@
 ## 🌐 Socials:
 Portfolio Website: https://hansapradhan.github.io/#/
 
+LinkTree: https://linktr.ee/hansapradhan
+
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradhan.hansa@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/hansapradhan) 
